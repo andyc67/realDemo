@@ -4,6 +4,7 @@
     <HelloWorld msg="Welcome to Your Vue.js App" />
     <h3>this is goooooooooooooooooood</h3>
     <h3>develop B changed!! here </h3>
+    <h3>develop A changed</h3>
   </div>
 </template>
 
